@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Xênia Barreto
 
-- 🔭 Trabalho com back-end
-- 🌱 Estudando Javascript
+- 🔭 Estudando desenvolvimento back-end
+- 🌱 Linguagem Javascript
 - 📫 Contate-me no e-mail: xeniabarreto22@gmail.com
 - 😄 Pronouns: ela/dela
 
