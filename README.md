@@ -1,8 +1,7 @@
 ### Olá! Eu sou a Xênia Barreto
 
-- 🔭 Estudando desenvolvimento back-end
+- 🔭 Estudando desenvolvimento back-end pela Reprograma
 - 🌱 Linguagem Javascript
-- 📫 Contate-me no e-mail: xeniabarreto22@gmail.com
 - 😄 Pronouns: ela/dela
 
 
@@ -22,7 +21,7 @@
   <a href="https://instagram.com/xeniabarreto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:xeniabarreto22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/xênia-barreto-020334209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+ </div>
   
   
 ![Snake animation](https://github.com/xeniabarreto/xeniabarreto/blob/output/github-contribution-grid-snake.svg)
