@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Xênia Barreto
 
-- 🔭 Estudando desenvolvimento back-end pela Reprograma
+- 🔭 Formada em desenvolvimento back-end pela {Reprograma}
 - 🌱 Linguagem Javascript
 - 😄 Pronouns: ela/dela
 
