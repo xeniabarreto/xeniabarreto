@@ -1,8 +1,14 @@
 ### Olá! Eu sou a Xênia Barreto
 
-- 🔭 Formada em desenvolvimento back-end pela {Reprograma}
-- 🌱 Linguagem Javascript
-- 😄 Pronouns: ela/dela
+
+Formada em Processos Gerenciais pela Uninove e Desenvolvedora Backend pela Reprograma, atualmente estou em transição de carreira.
+
+Sou capaz de desenvolver APIs RESTful com linguagem JavaScript, Node.js, manipulação de dados NoSQL através do MongoDB, versionamento de código com GIT/GitHub, aplicação de autenticação e automações de testes. Além disso, tenho me mantido atualizada sobre metodologias ágeis como Scrum, Lean e Kanban e customer experience.
+
+Acumulei ótimas soft skills ao longo da minha carreira profissional como resolução de problemas, comunicação eficaz, trabalho em equipe, criatividade, pensamento crítico e fluência de ideias, pois sempre gostei de estar envolvida em projetos desafiadores e inovadores, mantendo o aprendizado constante.
+
+Sinta-se à vontade para entrar em contato comigo através do chat.
+Visite também meu repositório do GitHub: https://github.com/xeniabarreto
 
 
 <div>
