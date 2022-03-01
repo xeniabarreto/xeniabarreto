@@ -1,5 +1,7 @@
 ### Olá! Eu sou a Xênia Barreto (she/her)
 
+[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/xeniabarreto)
+
 Bem vinde! :)
 
 Formada em: 
