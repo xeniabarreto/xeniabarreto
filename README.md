@@ -2,13 +2,12 @@
 <h3 align="center">Formada em Desenvolvimento Backend pela {Reprograma}🌟.</h3>
 
 <br>
-
+Bem vinde! :)
 
 <br>
 
 [![Github](https://img.shields.io/github/followers/xeniabarreto?label=Follow&style=social)](https://github.com/xeniabarreto)
 
-Bem vinde! :)
 
 Formada em: 
 
