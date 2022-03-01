@@ -1,4 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é Xênia Barreto</h1>
+![Visitor Count](https://profile-counter.glitch.me/{xeniabarreto}/count.svg)
 <h3 align="center">Formada em Desenvolvimento Backend pela {Reprograma}🌟.</h3>
 
 <br>
