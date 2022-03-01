@@ -3,9 +3,6 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://github.com/xeniabarreto-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Xenia-pw" /> 
-  </p>
 
 <br>
 
