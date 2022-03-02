@@ -22,6 +22,7 @@
 - 💬 Soft skills: Resolução de problemas, comunicação eficaz, trabalho em equipe, criatividade, pensamento crítico, fluência de ideias...
 - 📫 I am also a technical writer at Medium 
 
+<br>
 
 <p>Contate-me: 
 <br>
