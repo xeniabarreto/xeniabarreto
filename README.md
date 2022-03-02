@@ -20,6 +20,17 @@
 - 🌱 Interessada em aprender mais sobre Javascript e mentorada por [Allan Pires](https://www.linkedin.com/in/allan-pires/)
 - 👯 Atualizada sobre Scrum, Lean, Kanban e Customer experience
 - 💬 Soft skills: resolução de problemas, comunicação eficaz, trabalho em equipe, criatividade, pensamento crítico, fluência de ideias...
+<li>- 📫 Como falar comigo: <strong>xeniabarreto22@gmail.com</strong></li>  </ul>
+
+<!-- CONNECTION -->
+<hr>      
+<h3 align=>Conecte-se comigo:</h3>
+<p align=>
+
+<a href="https://www.linkedin.com/in/xênia-barreto-020334209/" target="_blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/xênia-barreto-020334209" height="30" width="40" /></a>
+<a href="https://instagram.com/xeniabarreto" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xeniabarreto" height="30" width="40" /></a>
+</p>
+
 
 <br>
 
