@@ -37,7 +37,7 @@
 
 <!--  -->
 <hr>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Linguagens e Ferramentas:</h3>
 <p align="center">  
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
