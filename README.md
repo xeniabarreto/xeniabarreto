@@ -35,7 +35,7 @@
 <br>
 
 
-<!-- LANGUAGES AND TOOLS -->
+<!-- Linguagens e Ferramentas -->
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  
