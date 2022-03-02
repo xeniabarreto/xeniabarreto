@@ -19,12 +19,11 @@
 - 📰 Formada em Processos Gerenciais pela Uninove e Desenvolvedora Web Backend pela [{Reprograma}](https://reprograma.com.br/) 
 - 🌱 Interessada em aprender mais sobre Javascript e mentorada por [Allan Pires](https://www.linkedin.com/in/allan-pires/)
 - 👯 Atualizada sobre Scrum, Lean, Kanban e Customer experience
-- 💬 Soft skills: Resolução de problemas, comunicação eficaz, trabalho em equipe, criatividade, pensamento crítico, fluência de ideias...
-- 📫 I am also a technical writer at Medium 
+- 💬 Soft skills: resolução de problemas, comunicação eficaz, trabalho em equipe, criatividade, pensamento crítico, fluência de ideias...
 
 <br>
 
-<p>Contate-me: 
+### Contate-me: 
 <br>
 
   <div>
