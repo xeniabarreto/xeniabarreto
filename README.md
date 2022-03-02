@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{xeniabarreto}/count.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Sou+a+Xênia!;Sou+Dev.+Backend...;Linguagem+JavaScript;e+Node.js+;Moro+na+capital+de+SP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Bem+vinde!;Sou+a+Xênia!;Desenvolvedora.+Backend...;Moro+em+SãoPaulo-SP)](https://git.io/typing-svg)
 
 - 😄 Pronouns: ... Ela/Dela
 - ⚡ Curiosidade ... Eu sou uma violinista. 😎 
