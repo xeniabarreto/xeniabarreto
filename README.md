@@ -11,7 +11,6 @@
 
 [![Github](https://img.shields.io/github/followers/xeniabarreto?label=Follow&style=social)](https://github.com/xeniabarreto)
 
-<br>
 
 <h3> Sobre mim: </h3>
 
@@ -45,7 +44,6 @@
 <a  href="https://www.postman.com/"><img  alt="Postman"  src="https://img.shields.io/badge/Postman-green">
 <a  href="https://code.visualstudio.com/"><img  alt="VsCode"  src="https://img.shields.io/badge/VSCode-green">
 <a  href="https://dashboard.heroku.com/apps"><img  alt="Heroku"  src="https://img.shields.io/badge/Heroku-green">
-<a  href=""><img  alt="Mit"  src="https://img.shields.io/badge/Licence MIT-pink"></a>
 
 <br>
 
