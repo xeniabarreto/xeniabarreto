@@ -34,7 +34,7 @@
 
 <br>
 
-### Tecnologias
+### Tecnologia
 
 <p  align="justify">
 <a  href="https://www.javascript.com/"><img  alt="Java Script"  src="https://img.shields.io/badge/JavaScript-green">
@@ -47,7 +47,7 @@
 
 <br>
 
-### Bibliotecas
+### Biblioteca
 
 <p  align="justify">
 <a  href="https://expressjs.com/pt-br/"><img  alt="Express version"  src="https://img.shields.io/badge/express-4.17.1-green">
