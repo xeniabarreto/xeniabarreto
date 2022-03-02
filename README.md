@@ -34,7 +34,7 @@
 
 <br>
 
-### Tecnologia
+### Tecnologias
 
 <p  align="justify">
 <a  href="https://www.javascript.com/"><img  alt="Java Script"  src="https://img.shields.io/badge/JavaScript-green">
@@ -44,10 +44,10 @@
 <a  href="https://www.postman.com/"><img  alt="Postman"  src="https://img.shields.io/badge/Postman-green">
 <a  href="https://code.visualstudio.com/"><img  alt="VsCode"  src="https://img.shields.io/badge/VSCode-green">
 <a  href="https://dashboard.heroku.com/apps"><img  alt="Heroku"  src="https://img.shields.io/badge/Heroku-green">
-
+</p>
 <br>
 
-### Biblioteca
+### Bibliotecas
 
 <p  align="justify">
 <a  href="https://expressjs.com/pt-br/"><img  alt="Express version"  src="https://img.shields.io/badge/express-4.17.1-green">
