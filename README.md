@@ -31,9 +31,7 @@ Soft skills:
 - Trabalho em equipe / - Criatividade
 - Pensamento crítico / - Fluência de ideias
 
-## **Tecnologias Utilizadas**
-
-Para a construção deste projeto, as seguintes tecnologias foram utilizadas:
+## Tecnologias Utilizadas
 
 <p  align="justify">
 <a  href="https://www.javascript.com/"><img  alt="Java Script"  src="https://img.shields.io/badge/JavaScript-pink">
@@ -48,8 +46,7 @@ Para a construção deste projeto, as seguintes tecnologias foram utilizadas:
 
 <br>
 
-## **Bibliotecas Aplicadas**
-As seguintes bibliotecas foram aplicadas:
+## Bibliotecas
 
 <p  align="justify">
 <a  href="https://expressjs.com/pt-br/"><img  alt="Express version"  src="https://img.shields.io/badge/express-4.17.1-pink">
