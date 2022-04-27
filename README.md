@@ -20,7 +20,7 @@
 <h3> Sobre mim: </h3>
 
 - 💖 Desenvolvo APIs RESTfull
-- 🔭 Atualmente trabalho no turismo, buscando minha transiçao de carreira para Tecnologia
+- 🔭 Atualmente trabalho como analista de desenvolvimento na Queima Diária.
 - 📰 Formada em Processos Gerenciais pela Uninove e Desenvolvedora Web Backend pela [{Reprograma}](https://reprograma.com.br/) 
 - 🌱 Interessada em aprender mais sobre Javascript e mentorada por [Allan Pires](https://www.linkedin.com/in/allan-pires/)
 - 👯 Atualizada sobre Scrum, Lean, Kanban e Customer experience
