@@ -22,7 +22,7 @@
 - 💖 Desenvolvo APIs RESTfull
 - 🔭 Atualmente trabalho como analista de desenvolvimento na Queima Diária.
 - 📰 Formada em Processos Gerenciais pela Uninove e Desenvolvedora Web Backend pela [{Reprograma}](https://reprograma.com.br/) 
-- 🌱 Interessada em aprender mais sobre Javascript e mentorada por [Allan Pires](https://www.linkedin.com/in/allan-pires/) e Danilo.
+- 🌱 Interessada em aprender mais sobre Javascript e mentorada por [Allan Pires](https://www.linkedin.com/in/allan-pires/) e  [Danillo Souza](https://www.linkedin.com/in/danillofs/)
 - 👯 Atualizada sobre Scrum, Lean, Kanban e Customer experience
 - 💬 Soft skills: resolução de problemas, comunicação eficaz, trabalho em equipe, criatividade, pensamento crítico, fluência de ideias...
 - 📫 Para falar comigo: <strong>xeniabarreto22@gmail.com</strong></li>  </ul>
