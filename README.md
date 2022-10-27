@@ -9,8 +9,8 @@
 
 
 
-- 😄 Pronomes: ... Ela/Dela
-- ⚡ Curiosidade ... Eu sou uma violinista. 😎 
+- 😄 Pronomes: Ela/Dela
+- ⚡ Ah.. Eu sou uma violinista. 😎 
 
 <br>
 
