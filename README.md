@@ -19,8 +19,7 @@
 
 <h3> Sobre mim: </h3>
 
-- 💖 Desenvolvo APIs RESTfull
-- 🔭 Atualmente trabalho como analista de desenvolvimento na Queima Diária.
+- 🔭 Atuo como Software Engineer na [Code1](https://code1.com.br/).
 - 📰 Formada em Processos Gerenciais pela Uninove e Desenvolvedora Web Backend pela [{Reprograma}](https://reprograma.com.br/) 
 - 🌱 Interessada em aprender mais sobre Javascript e mentorada por [Allan Pires](https://www.linkedin.com/in/allan-pires/) e  [Danillo Souza](https://www.linkedin.com/in/danillofs/) - (toda minha GRATIDÃO).
 - 👯 Atualizada sobre Scrum, Lean, Kanban e Customer experience
