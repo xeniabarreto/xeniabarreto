@@ -5,7 +5,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{xeniabarreto}/count.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Bem+vinde!;Sou+a+Xênia!;Desenvolvedora+Backend...;Moro+em+São+Paulo-SP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Bem+vindo(a)!;Sou+a+Xênia!;Desenvolvedora+Backend...;Moro+em+São+Paulo-SP)](https://git.io/typing-svg)
 
 
 
