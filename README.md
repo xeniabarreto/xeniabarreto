@@ -2,12 +2,11 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-
+You're visitor number: 
+<br>
 ![Visitor Count](https://profile-counter.glitch.me/{xeniabarreto}/count.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome!;I'm+Xênia!;I'm+a+Software+Engineer.;I+live+in+Brazil!;Hello!!!)](https://git.io/typing-svg)
-
-
 
 - 😄 Pronouns: She/Her
 
