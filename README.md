@@ -45,15 +45,6 @@
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
  </p>  
 
-<!-- CONNECTION -->
-<hr>      
-<h3 align=>Conecte-se comigo:</h3>
-<p align=>
-
-<a href="https://www.linkedin.com/in/xênia-barreto-020334209/" target="_blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/xênia-barreto-020334209" height="30" width="40" /></a>
-
-<br>
-
 <br>
 
 <div>
