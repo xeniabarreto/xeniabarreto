@@ -5,7 +5,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{xeniabarreto}/count.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Bem+vindo(a)!;Sou+a+Xênia!;Desenvolvedora+Backend...;Moro+em+São+Paulo-SP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Bem+vindo(a)!I'm+Xênia!;Software+Engineer...;I+live+in+Brazil)](https://git.io/typing-svg)
 
 
 
@@ -16,7 +16,7 @@
 [![Github](https://img.shields.io/github/followers/xeniabarreto?label=Follow&style=social)](https://github.com/xeniabarreto)
 
 
-<h3> Sobre mim: </h3>
+<h3> About me: </h3>
 
 - 🔭 I work as a Software Engineer at [Code1](https://code1.com.br/).
 - 🌱 Experience in application development using Node.js and Ruby on Rails.
