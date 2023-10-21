@@ -9,8 +9,7 @@
 
 
 
-- 😄 Pronomes: Ela/Dela
-- ⚡ Ah.. Eu sou uma violinista. 😎 
+- 😄 Pronouns: She/Her
 
 <br>
 
@@ -19,12 +18,32 @@
 
 <h3> Sobre mim: </h3>
 
-- 🔭 Atuo como Software Engineer na [Code1](https://code1.com.br/).
-- 📰 Formada em Processos Gerenciais pela Uninove e Desenvolvedora Web Backend pela [{Reprograma}](https://reprograma.com.br/) 
-- 🌱 Interessada em aprender mais sobre Javascript e mentorada por [Allan Pires](https://www.linkedin.com/in/allan-pires/) e  [Danillo Souza](https://www.linkedin.com/in/danillofs/) - (toda minha GRATIDÃO).
-- 👯 Atualizada sobre Scrum, Lean, Kanban e Customer experience
-- 💬 Soft skills: resolução de problemas, comunicação eficaz, trabalho em equipe, criatividade, pensamento crítico, fluência de ideias...
-- 📫 Para falar comigo: <strong>xeniabarreto22@gmail.com</strong></li>  </ul>
+- 🔭 I work as a Software Engineer at [Code1](https://code1.com.br/).
+- 🌱 Experience in application development using Node.js and Ruby on Rails.
+- 📰 Graduated in Management Processes from Uninove and Backend Web Developer from [{Reprograma}](https://reprograma.com.br/)  
+- 👯 Current on Scrum, Lean, Kanban and Customer experience.
+- 💬 Soft skills: problem solving, effective communication, teamwork, creativity, critical thinking, fluency of ideas...
+- 📫 To contact me by [Email](xeniabarreto22@gmail.com) or [Linkedin](https://www.linkedin.com/in/xeniabarreto)
+
+<!--  -->
+<hr>
+<h3 align=>Linguagens:</h3>
+<p align=>  
+    <a href="https://www.ruby-lang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" alt="Ruby" width="40" height="40"/</a>
+  <a href="https://rubyonrails.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="Ruby on Rails" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+
+<hr>
+<h3 align=>Ferramentas:</h3>
+<p align=>  
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+ </p>  
 
 <!-- CONNECTION -->
 <hr>      
@@ -32,25 +51,6 @@
 <p align=>
 
 <a href="https://www.linkedin.com/in/xênia-barreto-020334209/" target="_blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/xênia-barreto-020334209" height="30" width="40" /></a>
-<a href="https://instagram.com/xeniabarreto" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xeniabarreto" height="30" width="40" /></a>
-</p>
-
-
-<!--  -->
-<hr>
-<h3 align=>Linguagens e Ferramentas:</h3>
-<p align=>  
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
- </p>  
 
 <br>
 
